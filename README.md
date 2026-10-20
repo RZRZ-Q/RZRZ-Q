@@ -2,6 +2,8 @@
 
 关注大模型、Agent 与 AI 编程。做一些自己会用的工具，也把实践中的方法整理成可复用的 Skill 和开源项目。
 
+[小红书](https://www.xiaohongshu.com/user/profile/62a1c8ae000000001b029899) · [抖音](https://www.iesdouyin.com/share/user/MS4wLjABAAAAmUDpHsB9zFe7M0pL8Qcqz8xtQK3f_LYfnbjcS2Hvr2ER8unJPaMDVi-B6oK9sR_H)
+
 这里记录我在做的东西：从 AI 工具与工作流，到学习、项目实践和求职准备。希望分享的不只是一个结果，还有怎么做、遇到了什么问题，以及哪些方法值得复用。
 
 ## 最近在做
