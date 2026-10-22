@@ -18,5 +18,6 @@
 |---|---|
 | [RZ Skills](https://github.com/RZRZ-Q/rz-skills) | 持续更新的 Agent Skills 集合。目前主要提供 **AI Career** 套件，串联岗位与 JD、工程实践、研究追踪、项目建议和面试准备，支持整套或单模块安装。 |
 | [More Details · DSH Web Chat](https://github.com/RZRZ-Q/dsh-more-details) | 为 DeepSeek Harness 增加选中文本继续探讨的工作流：在网页聊天中展开讨论，再把带来源的讨论引用带回主会话。 |
+| [Awesome RSI Resources](https://github.com/RZRZ-Q/awesome-rsi-resources) | 递归自改进（RSI）的双语学习与研究资源导航，整理经过核验的综述、教程、课程和实践项目，提供分支阅读路线、运行入口与门槛，以及 RL 与 RSI 关系导读。 |
 
 欢迎试用，也欢迎在项目里提 Issue，交流实际使用中的问题和想法。
